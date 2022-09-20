@@ -1,6 +1,6 @@
 # Language-Detection-Model
 
-**The model can detect 17 diffrent languages.**
+**The model is trained on 17 diffrent languages.**
 These are the Languages -
 
 1) English
